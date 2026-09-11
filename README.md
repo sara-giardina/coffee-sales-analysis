@@ -93,5 +93,5 @@ Basandosi sull'analisi svolta, i tre luoghi consigliati per l'espansione sono:
 
 ## 🛠️ Tecnologie Utilizzate
 * **Database:** MySQL 8.0
-* **Strumenti:** MySQL Workbench / DBeaver
+* **Strumenti:** MySQL Workbench
 * **Tecniche SQL:** JOIN complesse, Funzioni di aggregazione (SUM, AVG, COUNT), Raggruppamenti (GROUP BY), Tabelle temporanee.
