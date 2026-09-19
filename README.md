@@ -84,6 +84,13 @@ LEFT JOIN clienti_unici ON fatturato_per_citta.city_name = clienti_unici.city_na
 LEFT JOIN city ON city.city_name = clienti_unici.city_name
 ORDER BY 5 DESC;
 ```
+## 📊 Power BI Dashboard
+
+Per supportare le decisioni strategiche emerse dalle query SQL, è stata sviluppata una dashboard interattiva su Power BI. Il report permette di analizzare visivamente i ricavi, i trend temporali e di mettere a confronto i dati aziendali interni con i fattori demografici e le spese di locazione esterne.
+
+![Power BI Dashboard](dashboard_sales.PNG)
+
+*(Nota: Il file sorgente della dashboard è disponibile nel repository come `Coffee_Sales_Analysis.pbix`)*
 
 ## 🎯 Conclusioni e Raccomandazioni (I 3 Nuovi Store)
 Basandosi sull'analisi svolta, i tre luoghi consigliati per l'espansione sono:
